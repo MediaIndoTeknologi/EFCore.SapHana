@@ -1,0 +1,5 @@
+<#
+    Session["ResourceFile"] = "SapHanaStrings.resx";
+    Session["LoggingDefinitionsClass"] = "Diagnostics.Internal.SapHanaLoggingDefinitions";
+#>
+<#@ include file="..\..\tools\Resources.tt" #>
